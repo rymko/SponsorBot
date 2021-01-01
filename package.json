@@ -1,7 +1,7 @@
 {
-  "name": "sponsorbot-mala",
+  "name": "sponsorbot-rymko",
   "version": "1.0.0",
-  "description": "mlk#2389",
+  "description": ">_ $𝗥𝘆𝗺𝗞𝗼.𝗲𝘅𝗲#1234",
   "main": "sponsorbot.js",
   "dependencies": {
     "array-sort": "^1.0.0",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Malakrovi/sponsorbot.git"
+    "url": "git+https://github.com/rymko/sponsorbot"
   },
-  "author": "mlk#2389",
+  "author": ">_ $𝗥𝘆𝗺𝗞𝗼.𝗲𝘅𝗲#1234",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Malakrovi/sponsorbot/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Malakrovi/sponsorbot#readme"
+  "homepage": ""
 }
