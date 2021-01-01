@@ -1,6 +1,6 @@
 {
     "token": "VOTRE TOKEN",
-    "prefix": "+VOTRE PREFIX",
+    "prefix": "VOTRE PREFIX",
     "wlrole": "ID DU ROLE WL ",
     "helperRole": "ID DU ROLE HELPER",
     "embedColor": "2c2f33",
