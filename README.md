@@ -8,7 +8,7 @@ Vous pouvez maintenant lancer le sponsorbot.js
 
 ce script a été développer il y a quelques mois.
 
-> >_ $𝗥𝘆𝗺𝗞𝗼.𝗲𝘅𝗲#1234
+>_ $𝗥𝘆𝗺𝗞𝗼.𝗲𝘅𝗲#1234 (700399130408648854)
 
 require:
 node ^12.0.0
